@@ -1,16 +1,39 @@
-### Hi there 👋
+# Daniel Júnior
 
-<!--
-**DanielSTS/DanielSTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Linkedin](https://www.linkedin.com/in/daniel-júnior-58194b13b)<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- Software Engineer at <a href="https://foxbit.com.br/">Foxbit</a>, working with the stack **NodeJs** and **ReactJS**.
+
+- Graduated **Bachelors degree in Computer Engineering** at <a href="https://www.ifpb.edu.br/en">Federal Institute of Education, Science and Technology of Paraíba</a>.
+
+
+## Skills
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJs" title="NodeJs" height="45" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" title="React" width="40" 
+  height="40" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="40" height="40" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" title="Javascript" width="40" height="40" /> 
+    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" title="Python" width="40" 
+  height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity" title="Solidity" width="40" 
+  height="40" /> 
+</p>
+
+- **Programming languages:** JavaScript, TypeScript, Python, Delphi, Java, Solidity
+- **Web:**  NodeJS, ReactJS, HTML, CSS, Flask, MoleculerJS, Spring Boot
+- **Database:** MySQL, PostgreSQL, SQlite, MongoDB, Redis
+- **Software Versioning:** Git
+- **Development Methodologies:** Scrum, Kanban
+- **Others:** Linux, Docker, RabbitMQ, Celery
+
+
+
+## Interests
+
+- Trading Bots
+- Web3
+- Blockchain
