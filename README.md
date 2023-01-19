@@ -9,6 +9,7 @@
 
 - Graduated **Bachelors degree in Computer Engineering** at <a href="https://www.ifpb.edu.br/en">Federal Institute of Education, Science and Technology of Paraíba</a>.
 
+- Post Graduate in **Software Engineering** at <a href="https://www.pucminas.br/destaques/Paginas/default.aspx">PUC of Minas Gerais</a>.
 
 ## Skills
 <p align="left">
