@@ -24,7 +24,7 @@
   height="40" /> 
 </p>
 
-- **Programming languages:** JavaScript, TypeScript, Python, Delphi, Java, Solidity
+- **Programming Languages:** JavaScript, TypeScript, Python, Delphi, Java, Solidity
 - **Web:**  NodeJS, ReactJS, HTML, CSS, Flask, MoleculerJS, Spring Boot
 - **Database:** MySQL, PostgreSQL, SQlite, MongoDB, Redis
 - **Software Versioning:** Git
