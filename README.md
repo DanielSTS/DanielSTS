@@ -5,7 +5,7 @@
 
 ## About
 
-- Software Engineer at <a href="https://foxbit.com.br/">Foxbit</a>, working with the stack **NodeJs** and **ReactJS**.
+- Software Engineer at <a href="https://foxbit.com.br/">Foxbit</a>, working with the stack **NodeJS** and **ReactJS**.
 
 - Graduated **Bachelors degree in Computer Engineering** at <a href="https://www.ifpb.edu.br/en">Federal Institute of Education, Science and Technology of Paraíba</a>.
 
