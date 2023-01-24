@@ -5,7 +5,7 @@
 
 ## About
 
-- Software Engineer at <a href="https://foxbit.com.br/">Foxbit</a>, working with the stack **NodeJS** and **ReactJS**.
+- Software Engineer at <a href="https://foxbit.com.br/">Foxbit</a>, working with the stack **Node.js** and **React.js**.
 
 - Graduated **Bachelors degree in Computer Engineering** at <a href="https://www.ifpb.edu.br/en">Federal Institute of Education, Science and Technology of Paraíba</a>.
 
@@ -25,7 +25,7 @@
 </p>
 
 - **Programming Languages:** JavaScript, TypeScript, Python, Delphi, Java, Solidity
-- **Web:**  NodeJS, ReactJS, HTML, CSS, Flask, MoleculerJS, Spring Boot
+- **Web:**  Node.js, React.js, HTML, CSS, Flask, MoleculerJS, Spring Boot
 - **Database:** MySQL, PostgreSQL, SQlite, MongoDB, Redis
 - **Software Versioning:** Git
 - **Development Methodologies:** Scrum, Kanban
