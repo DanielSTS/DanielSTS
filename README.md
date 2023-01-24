@@ -1,6 +1,6 @@
 # Daniel Júnior
 
-- [Linkedin](https://www.linkedin.com/in/daniel-júnior-58194b13b)<br />
+- [Linkedin](https://www.linkedin.com/in/danielssjunior)<br />
 
 
 ## About
