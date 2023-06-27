@@ -29,6 +29,7 @@
 - **Database:** MySQL, PostgreSQL, SQlite, MongoDB, Redis
 - **Software Versioning:** Git
 - **Development Methodologies:** Scrum, Kanban
+- **Monitoring and Observability:** Prometheus, Grafana, Rollbar, Cloudwatch
 - **Others:** Linux, Docker, RabbitMQ, Celery
 
 
