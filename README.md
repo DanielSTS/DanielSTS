@@ -25,8 +25,8 @@
 </p>
 
 - **Programming Languages:** JavaScript, TypeScript, Python, Delphi, Java, Solidity
-- **Web:**  Node.js, React.js, HTML, CSS, Flask, MoleculerJS, Spring Boot
-- **Database:** MySQL, PostgreSQL, SQlite, MongoDB, Redis
+- **Web:**  Node.js, React.js, NestJS HTML, CSS, Flask, MoleculerJS, Spring Boot
+- **Database:** MySQL, PostgreSQL, SQLite, MongoDB, Redis
 - **Software Versioning:** Git
 - **Development Methodologies:** Scrum, Kanban
 - **Monitoring and Observability:** Prometheus, Grafana, Rollbar, Cloudwatch
