@@ -5,7 +5,7 @@
 
 ## About
 
-- Software Engineer at <a href="https://foxbit.com.br/">Foxbit</a>, working with the stack **Node.js**, **React.js** and **Python**.
+- Software Engineer with over 3 years of experience, currently working at <a href="https://foxbit.com.br/">Foxbit</a>, working with the stack **Node.js**, **React** and **Python**.
 
 - **Bachelors degree in Computer Engineering** at <a href="https://www.ifpb.edu.br/en">Federal Institute of Education, Science and Technology of Paraíba</a>.
 
