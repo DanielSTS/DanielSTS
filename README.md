@@ -23,7 +23,7 @@
 </p>
 
 - **Programming Languages:** JavaScript, TypeScript, Python, Delphi, Java
-- **Web:**  Node.js, React.js, NestJS HTML, CSS, Flask, MoleculerJS, Spring Boot
+- **Web:**  Node.js, React, NestJS HTML, CSS, Flask, MoleculerJS, Spring Boot
 - **Database:** MySQL, PostgreSQL, SQLite, MongoDB, Redis
 - **Software Versioning:** Git
 - **Development Methodologies:** Scrum, Kanban
